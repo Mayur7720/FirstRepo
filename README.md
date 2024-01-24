@@ -1,4 +1,4 @@
 # FirstRepo
-This is my Repository
+This is my First Repository.
 <br>
-Author - Mayur Kondhare
+Author - Mayur Kondhare 
